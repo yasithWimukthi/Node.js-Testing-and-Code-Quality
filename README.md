@@ -1,8 +1,3 @@
-# Nadia’s Garden Restaurant
-
-This is a Node.js and Express website that accepts and lists restaurant reservations. Improve it with the lynda.com course, "Node.js: Testing and Code Quality" by Jon Peck.
-
-The backend contains intentional mistakes, like weak validation on email addresses. Inconsistencies in coding style are also intentional.
 
 ## Getting Started
 
